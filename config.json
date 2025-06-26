@@ -1,0 +1,6 @@
+{
+    "login_url": "https://preprod-api.myinvois.hasil.gov.my/connect/token",   
+    "client_id": "Client ID",
+    "client_secret": "Client Secret Key 1/2"
+  }
+  
